@@ -1,3 +1,6 @@
 # About
 
-Basic caculator with pascal
+Basic Caculator with 
+- Procedure
+- Looping Repeat Until
+- Case Of
